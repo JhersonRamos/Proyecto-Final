@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1139078321579874323
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 141718, guid: eefa18c7aee7d324eb1d4af38eafc25a, type: 3}
+      propertyPath: m_Name
+      value: Barrels (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 417994, guid: eefa18c7aee7d324eb1d4af38eafc25a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 417994, guid: eefa18c7aee7d324eb1d4af38eafc25a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -41.779312
+      objectReference: {fileID: 0}
+    - target: {fileID: 417994, guid: eefa18c7aee7d324eb1d4af38eafc25a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.24354964
+      objectReference: {fileID: 0}
+    - target: {fileID: 417994, guid: eefa18c7aee7d324eb1d4af38eafc25a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 63.933308
+      objectReference: {fileID: 0}
+    - target: {fileID: 417994, guid: eefa18c7aee7d324eb1d4af38eafc25a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 417994, guid: eefa18c7aee7d324eb1d4af38eafc25a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 417994, guid: eefa18c7aee7d324eb1d4af38eafc25a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 417994, guid: eefa18c7aee7d324eb1d4af38eafc25a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eefa18c7aee7d324eb1d4af38eafc25a, type: 3}
